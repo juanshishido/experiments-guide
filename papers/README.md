@@ -12,6 +12,7 @@ These are the papers you should get
 
 | Title | Authors | Year | Notes | 
 | ----- | ------- | ---- | ----- |
+| Bayesian Experimental Design: A Review | Chaloner, Kathryn and Verdinelli, Isabella | | |
 | Causal Inference Using Potential Outcomes | Rubin, Donald B. | 2005 | |
 | Causal inference using regression on the treatment variable | Gelman, Andrew | 2006 | Chapter 9 of Data Analysis Using Regression and Multilevel/Hierarchical Models | 
 | Practical Guide to Controlled Experiments on the Web | Kohavi, Ron and Henne, Randal M. and Sommerfield, Dan | 2007 | |

@@ -69,3 +69,10 @@ else
     wget http://pages.optimizely.com/rs/optimizely/images/practical_guide_to_stats.pdf
     mv practical_guide_to_stats.pdf statistics-for-online-experiments.pdf
 fi
+
+if test -a 'bayesian-experimental-design.pdf'; then
+    :
+else
+    wget http://homepage.stat.uiowa.edu/~gwoodwor/AdvancedDesign/Chaloner%20Verdinelli.pdf
+    mv Chaloner\ Verdinelli.pdf bayesian-experimental-design.pdf
+fi

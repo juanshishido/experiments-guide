@@ -1,2 +1,2 @@
 data:
-	sh _get_data.sh
+	sh _get_papers.sh
