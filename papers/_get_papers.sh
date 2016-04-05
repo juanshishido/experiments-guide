@@ -76,3 +76,10 @@ else
     wget http://homepage.stat.uiowa.edu/~gwoodwor/AdvancedDesign/Chaloner%20Verdinelli.pdf
     mv Chaloner\ Verdinelli.pdf bayesian-experimental-design.pdf
 fi
+
+if test -a 'randomization-and-logistic-regression.pdf'; then
+    :
+else
+    wget --user-agent=Lynx http://arxiv.org/pdf/0808.3914.pdf
+    mv 0808.3914.pdf randomization-and-logistic-regression.pdf
+fi

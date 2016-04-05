@@ -20,6 +20,7 @@ These are the papers you should get
 | Online Experimentation at Microsoft | Kohavi, Ronny et al. | 2009 | |
 | Online Experiments | Kohavi, Ron and Longbotham, Roger and Walker, Toby | 2010 | |
 | Overlapping Experiment Infrastructure | Tang, Diane et al. | 2010 | |
+| Randomization Does Not Justify Logistic Regression | Freedman, David A. | 2008 | |
 | Randomized Experiments and Observational Studies | Rosenbaum, Paul R. | 2004 | |
 | A Practical Guide to Statistics for Online Experiments | Rusonis, Shana | | From Optimizely |
 | The Role of Theory in Field Experiments | Card, David and DellaVigna, Stefano and Malmendier, Ulrike | 2011 | |
