@@ -65,6 +65,7 @@ def permutation_test(arr, m, permutations=10000, two_tailed=True):
     0.0
     """
     np.random.seed(42)
+    arr = arr.copy()
     baseline = _test_statistic(arr, m)
     v = []
     for _ in range(permutations):
