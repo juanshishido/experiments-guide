@@ -27,6 +27,14 @@ enthusiasm for experimentation. It was first developed as part of an
 independent study course while I was a graduate student at the School of
 Information at the University of California, Berkeley.
 
+### Table of Contents
+
+1. [Overview](https://github.com/juanshishido/experiments-guide/blob/master/00-overview.ipynb)
+2. [Causal Inference](https://github.com/juanshishido/experiments-guide/blob/master/01-causal-inference.ipynb)
+3. [Randomization](https://github.com/juanshishido/experiments-guide/blob/master/02-randomization.ipynb)
+4. [Statistical Inference](https://github.com/juanshishido/experiments-guide/blob/master/03-statistical-inference.ipynb)
+5. [Regression](https://github.com/juanshishido/experiments-guide/blob/master/04-regression.ipynb)
+
 ### Sources
 
 These materials are based on multiple sources, including:
